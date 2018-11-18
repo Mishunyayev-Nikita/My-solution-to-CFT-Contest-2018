@@ -6,3 +6,7 @@ I with team ranked 3rd place in the [CFT Contest](https://datasouls.com/c/cft-co
 * prepare data.ipynb - notebook with my data processing code (various counters, TF-IDF and binary features)
 * models.ipynb - notebook with code of learning different models, the quality of which was checked on  classification into 2 and 3 classes
 * final solution.ipynb - notebook in which I used my best Logistic Regresssion model to solve first task (Full names classification), which was used in the final ensemble, and symspellpy library to solve second task (typos correction)
+
+## My teammates:
+- [Denis Vorotyntsev](https://github.com/DenisVorotyntsev)
+- [Miras Amir](https://github.com/amirassov)
