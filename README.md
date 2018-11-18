@@ -1,4 +1,4 @@
-# My-solution-to-CFT-Contest-2018
+# My solution to CFT Contest 2018
 
 I with team ranked 3rd place in the [CFT Contest](https://datasouls.com/c/cft-contest/leaderboard). The task was to identify and correct typos in a person's name. We tried several approaches in this competition, but our two best scores we achieved with a voting of several seq2seq models and lightgbm on linear models predictions. It was an interesting experience primarily because of multitask learning.
 
